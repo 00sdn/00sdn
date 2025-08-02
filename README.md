@@ -1,5 +1,7 @@
-👋 Hi, I'm [Your Name]
-💻 I’m a CS student passionate about web & app development.
-🚀 Currently learning: React, Node.js, and Express.
-🔧 Tools: VS Code, Git, GitHub, Figma, Postman.
-📫 How to reach me: [your email]
+👋 Hi, I'm Shadhin Nandi  
+🎓 Undergraduate CS student at United International University  
+🔍 I'm passionate about Python, Machine Learning, and Computer Vision  
+🧠 Currently exploring Deep Learning and Digital Image Processing  
+🌐 I’ve also worked with HTML, CSS, PHP, and am learning React & Node.js  
+📦 Tools I use: Python, OpenCV, VS Code, Git, GitHub, Postman  
+📫 Reach me at: Shadhin332@gmail.com 
