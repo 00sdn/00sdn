@@ -4,4 +4,4 @@
 🧠 Currently exploring Deep Learning and Digital Image Processing  
 🌐 I’ve also worked with HTML, CSS, PHP, and am learning React & Node.js  
 📦 Tools I use: Python, OpenCV, VS Code, Git, GitHub, Postman  
-📫 Reach me at: Shadhin332@gmail.com 
+📫 Reach me at: Shadhin332@gmail.com (Personal), snandi223604@bscse.uiu.ac.bd (UIU) 
